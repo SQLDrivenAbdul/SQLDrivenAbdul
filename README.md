@@ -26,13 +26,6 @@
 ![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 
----
-
-## 🛠️ Tech Stack
-- **Languages**: SQL  · DAX
-- **Databases**: SQL Server · PostgreSQL  · Azure Data Studio
-- **Data Tools**: Power BI · Excel 
-- **Other**:  GitHub · VS Code · SSMS 
 
 ---
 
