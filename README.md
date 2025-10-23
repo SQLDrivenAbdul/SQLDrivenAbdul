@@ -1,8 +1,7 @@
 # Hi, I'm Abdullah Rufai
 
-**`Data Analyst`**
- 
-🔍 I love turning raw data into stories that drive decisions and spark action. 
+**`Data Engineer`**
+
 
 
 ## 🧰 Tech Stack
